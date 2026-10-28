@@ -1,0 +1,25 @@
+# Node / React
+node_modules/
+dist/
+build/
+.oxlintcache
+
+# Python / Django
+__pycache__/
+*.py[cod]
+*$py.class
+*.sqlite3
+.venv/
+env/
+venv/
+
+# IDE / OS
+.vscode/
+.idea/
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# Temporary scripts
+capture_steps.py
+generate_code_captures.py
